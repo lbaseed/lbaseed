@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lbaseed
-- 👀 I’m interested in Laravel (PHP)
+- 👀 I’m interested in PHP (Laravel, Symfony)
 - 🌱 I’m currently learning Dart and Laravel
 - 💞️ I’m looking to collaborate on PHP Projects
 - 📫 How to reach me +234 806 470 1206
